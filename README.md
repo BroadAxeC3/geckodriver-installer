@@ -8,11 +8,11 @@
 
 Try this one-liner on for size:
 
-`wget https://raw.githubusercontent.com/lyndsysimon/geckodriver-installer/master/geckodriver_installer.sh && chmod +x geckodriver_installer.sh && ./geckodriver_installer.sh && rm geckodriver_installer.sh`
+`wget https://raw.githubusercontent.com/BroadAxeC3/geckodriver-installer/master/geckodriver_installer.sh && chmod +x geckodriver_installer.sh && ./geckodriver_installer.sh && rm geckodriver_installer.sh`
 
 ### Almost-as-easy Mode
 
-1. Clone this repository: `git clone https://github.com/lyndsysimon/geckodriver-installer.git"
+1. Clone this repository: `git clone https://github.com/BroadAxeC3/geckodriver-installer.git"
 2. From the repository directory, execute the provisioning script: `./geckodriver_installer.sh`
 3. To verify installation, open a new shell and execute: `which geckodriver`. If it is intalled correctly, this should return the path to the binary; if there is a problem, it will return `geckodriver not found`.
 
